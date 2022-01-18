@@ -72,7 +72,6 @@ def main():
         print(Student.outputStudent(sv))
     chenk = 1
     while chenk != 0:
-        print("------------------------")
         print("Nhập 1: Hiện Danh sách Sinh Viên  ")
         print("Nhập 2: Xắp xếp sinh viên")
         print("nhập 3: Tìm Kiếm Sinh Viên")
